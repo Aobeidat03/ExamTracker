@@ -1,1 +1,9 @@
+node_modules/
+.env
+backend/.env
+frontend/.env
+dist/
+frontend/dist/
 .claude
+.vscode/
+.DS_Store
